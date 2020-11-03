@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/commish-client/static/js/main.84bdb17e.chunk.js",
+    "main.js.map": "/commish-client/static/js/main.84bdb17e.chunk.js.map",
+    "runtime-main.js": "/commish-client/static/js/runtime-main.9478452d.js",
+    "runtime-main.js.map": "/commish-client/static/js/runtime-main.9478452d.js.map",
+    "static/js/2.f7cd99d2.chunk.js": "/commish-client/static/js/2.f7cd99d2.chunk.js",
+    "static/js/2.f7cd99d2.chunk.js.map": "/commish-client/static/js/2.f7cd99d2.chunk.js.map",
+    "index.html": "/commish-client/index.html",
+    "precache-manifest.3055e7e26c4b8d22432e64c1527074e0.js": "/commish-client/precache-manifest.3055e7e26c4b8d22432e64c1527074e0.js",
+    "service-worker.js": "/commish-client/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9478452d.js",
+    "static/js/2.f7cd99d2.chunk.js",
+    "static/js/main.84bdb17e.chunk.js"
+  ]
+}
